@@ -1,4 +1,4 @@
-# IMDb Movies Analysis
+# IMDb Top 1000 Movies Analysis
 
 This project analyzes the IMDb Top 1000 Movies dataset.
 
