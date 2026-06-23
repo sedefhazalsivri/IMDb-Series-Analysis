@@ -14,3 +14,6 @@ This project analyzes the IMDb Top 1000 Movies dataset.
 - Dashboard.png
 - IMDb Dashboard.pbix
 - IMDb_1000_SQL
+
+## Dashboard Preview
+![Dashboard](Dashboard.png)
